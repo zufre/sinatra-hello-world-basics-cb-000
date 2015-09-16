@@ -17,6 +17,6 @@ Run shotgun to start a local server so that you can test your app in your browse
 
 You can run `learn` to see error messages.
 
-## Recourses
+## Resources
 
 [Sinatra Basics](https://github.com/learn-co-curriculum/sinatra-basics)

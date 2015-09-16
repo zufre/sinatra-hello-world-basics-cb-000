@@ -7,7 +7,7 @@ describe "GET '/'" do
     expect(last_response.status).to eq(200)
   end
 
-  it "renders string from the GET" do
+  it "responds with 'Hello, World!'" do
     expect(last_response.body).to include("Hello, World!")
   end
 end

@@ -8,9 +8,9 @@
 
 ## Instructions
 
-Fork and clone this repository and run bundle install to get started!
+Fork and clone this repository and run `bundle install` to get started!
 
-Run shotgun to start a local server so that you can test your app in your browser. Shotgun default is using port 9393, you should be able to visit the following url `http://localhost:9393`.
+Run `shotgun` to start a local server so that you can test your app in your browser. Shotgun default is using port 9393, you should be able to visit the following url `http://localhost:9393`.
 
 1. Write a `get` method in the `app.rb` file to respond to the root URL '/'.
 2. The `get` route should respond with the string `"Hello, World!"`.

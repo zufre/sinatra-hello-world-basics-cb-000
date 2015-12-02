@@ -20,3 +20,5 @@ You can run `learn` to see error messages.
 ## Resources
 
 [Sinatra Basics](https://github.com/learn-co-curriculum/sinatra-basics)
+
+<a href='https://learn.co/lessons/sinatra-hello-world-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
